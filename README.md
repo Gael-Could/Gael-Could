@@ -17,8 +17,7 @@ je développe des projets qui associent rigueur quantitative,
 programmation et interprétation des résultats pour éclairer
 la prise de décision.
 
-- 🎓 Étudiant en Master 2 MIASHS, parcours Méthodes Quantitatives
-  et Modélisation pour l’Entreprise (MQME), à l’Université de Lille.
+- 🎓 Étudiant en Master 2 MIASHS, parcours Modélisation des données (MD), à l’Université de Lille.
 - 📊 Domaines d’intérêt : analyse de données, modélisation statistique,
   économétrie et prévision.
 - 💻 Outils de travail : R, Python et SQL.
@@ -26,11 +25,11 @@ la prise de décision.
   et bases de données.
 - 🧠 Approfondissement de mes compétences en ingénierie des données
   et en intelligence artificielle générative.
-- 📍 Basé en Île-de-France.
+- 📍 Basé à Lille, France.
 
 Je recherche un stage de fin d’études à partir de début 2027
 en analyse de données ou en ingénierie des données, avec un intérêt
-pour les projets intégrant l’intelligence artificielle
+pour les projets intégrant l’intelligence artificielle.
 
 
 ## 🛠️ Compétences techniques
