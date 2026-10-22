@@ -12,7 +12,7 @@
 
 ## 👋 À propos de moi
 
-Passionné par les statistiques, l’économétrie et l’analyse de données,
+Passionné par les statistiques, l’analyse de données et l'aide à la décision,
 je développe des projets qui associent rigueur quantitative,
 programmation et interprétation des résultats pour éclairer
 la prise de décision.
