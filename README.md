@@ -91,12 +91,13 @@ de projets concrets : structurer les données, produire des analyses
 fiables et développer des outils utiles à la décision.
 
 
-📬 Connecte-toi avec Moi
+##📬 Connecte-toi avec Moi
+
 N'hésite pas à me contacter pour :
 
-🤝 Collaborations sur des projets
-💡 Discussions sur l'IA et la Data Science
-📚 Partage de connaissances
+- 🤝 Collaborations sur des projets
+- 💡 Discussions sur l'IA et la Data Science
+- 📚 Partage de connaissances
 
 
 ## 📫 Me contacter
