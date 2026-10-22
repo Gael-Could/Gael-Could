@@ -95,5 +95,5 @@ fiables et développer des outils utiles à la décision.
 
 - 💼 LinkedIn : [Perrin Gaël KIBITI PEMBE](https://www.linkedin.com/in/perrin-ga%C3%ABl-kibiti-pembe-76865b206/)
 - 💻 GitHub : [Gael-Could](https://github.com/Gael-Could)
-- 🌐 :[ www.insight-agency.eu ](https://insight-agency.eu/) 
+- 🌐 Site Web :[ www.insight-agency.eu ](https://insight-agency.eu/) 
 - 📍 Localisation : Lille, France
