@@ -104,5 +104,4 @@ N'hésite pas à me contacter pour :
 
 - 💼 LinkedIn : [Perrin Gaël KIBITI PEMBE](https://www.linkedin.com/in/perrin-ga%C3%ABl-kibiti-pembe-76865b206/)
 - 💻 GitHub : [Gael-Could](https://github.com/Gael-Could)
-- 🌐 Site Web :[ www.insight-agency.eu ](https://insight-agency.eu/) 
 - 📍 Localisation : Lille, France
