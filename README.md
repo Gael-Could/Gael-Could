@@ -17,7 +17,7 @@ je développe des projets qui associent rigueur quantitative,
 programmation et interprétation des résultats pour éclairer
 la prise de décision.
 
-- 🎓 Étudiant en Master 2 MIASHS, parcours Modélisation des données (MD), à l’Université de Lille.
+- 🎓 Étudiant en Master 2 Modélisation des données (MD), à l’Université de Lille.
 - 📊 Domaines d’intérêt : analyse de données, modélisation statistique,
   économétrie et prévision.
 - 💻 Outils de travail : R, Python et SQL.
